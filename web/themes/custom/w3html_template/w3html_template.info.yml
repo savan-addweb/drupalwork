@@ -1,0 +1,8 @@
+name: w3html template
+type: theme
+description: this is a demo template from w3css
+core: 8.x
+bash theme: classy
+
+libraries:
+  - w3html_template/global-css

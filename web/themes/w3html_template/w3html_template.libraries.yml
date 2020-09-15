@@ -1,0 +1,9 @@
+global-css:
+  css:
+    component:
+      
+      https://www.w3schools.com/w3css/4/w3.css: { type: external,weight: 0}
+      https://fonts.googleapis.com/css?family=Lato: { type: external,weight: 1}
+      https://fonts.googleapis.com/css?family=Montserrat: { type: external,weight: 2}
+      https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css: { type: external,weight: 3} 
+      css/style.css: {}

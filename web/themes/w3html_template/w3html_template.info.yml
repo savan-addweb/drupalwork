@@ -1,0 +1,29 @@
+name: w3html template
+type: theme
+description: this is a demo template from w3css
+core: 8.x
+bash theme: classy
+
+libraries:
+  - w3html_template/global-css
+
+regions:
+  navigation: Navigation
+  primary_menu: Primary menu
+  first_grid: First Grid
+  second_grid: Second Grid
+  first_grid_left: First Grid Left
+  first_grid_right: First Grid Right
+  second_grid_left: Second Grid Left
+  second_grid_right: Second Grid Right
+  quote: Quote
+  navigation_collapsible: 'Navigation (Collapsible)'
+  header: 'Top Bar'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'

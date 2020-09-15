@@ -1,0 +1,15 @@
+.footer{
+    background-color: #484749;
+    color: white
+}
+.footer_right{
+    text-align: right;
+}
+.copyright{
+    height: 80px;
+    background-color: #262626;
+    color: wheat;
+    text-align: center;
+    padding-top: 22px;
+    
+}
